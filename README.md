@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @remiminnebo
 - 👀 I’m interested in everything Cloud Native
-- 🌱 I’m currently learning for CKS
 - 💞️ I’m looking to collaborate on Security tooling
 - 📫 How to reach me:  remi.minneboo@gmail.com
 
