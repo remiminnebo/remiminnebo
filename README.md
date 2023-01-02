@@ -1,8 +1,8 @@
-👋 Hi, I’m @remiminnebo CTO at DexMach
+👋 Hi, I’m @remiminnebo 
 
 - 👀 I’m interested in everything Cloud Native!
-- 💞️ I love cycling, astronomy and financial markets.
 - 👀 Looking to collaborate on cloud native security/observability tooling!
+- 💞️ I love cycling, astronomy and financial markets.
 - 📫 How to reach me:  remi@minnebo.io
 
 <!---
