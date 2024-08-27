@@ -3,7 +3,7 @@
 - 👀 I’m interested in everything Cloud Native!
 - 👀 Looking to collaborate on cloud native security/observability tooling!
 - 💞️ I love cycling, astronomy and financial markets.
-- 📫 How to reach me:  remi@minnebo.io
+- 📫 How to reach me:  remi.minnebo@gmail.com
 
 <!---
 remiminnebo/remiminnebo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
